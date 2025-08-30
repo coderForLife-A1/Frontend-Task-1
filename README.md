@@ -1,2 +1,2 @@
-# Frontend-Task-1
-Login Pages for any website
+- It is a simple login pages which can be used for any websites
+- It has both signin and login pages
